@@ -1,6 +1,7 @@
-﻿  Generating code
-  1 of 15 functions ( 6.7%) were compiled, the rest were copied from previous compilation.
+﻿  DevCampMMLogo.cpp
+  Generating code
+  5 of 15 functions (33.3%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    3 functions had inline decision re-evaluated but remain unchanged
+    4 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   DevCampMMLogo.vcxproj -> C:\Users\Bat Vlado\source\repos\DevCampMMLogo\x64\Release\DevCampMMLogo.exe
