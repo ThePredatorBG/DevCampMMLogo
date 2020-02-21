@@ -110,4 +110,7 @@ int main()
 	{
 		MMLogo.Draw(N);
 	}
+	cout << "\nPress any key to continue...";
+	cin.ignore();
+	cin.get();
 }
